@@ -752,6 +752,8 @@ main {
   width: 100%;
   filter: grayscale(1);
   transition: var(--transition-1);
+  aspect-ratio: 3/2;
+  object-fit: contain;
 }
 
 .clients-item img:hover { filter: grayscale(0); }
