@@ -249,7 +249,7 @@ article.active {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 30px;
+  width: 118px;
   height: 3px;
   background: var(--text-gradient-yellow);
   border-radius: 3px;
