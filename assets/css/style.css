@@ -544,7 +544,7 @@ main {
 
 .service-icon-box img { margin: auto; }
 
-.music-icon {
+.music-icon img {
   filter: brightness(0.7); /* Adjust the value to reduce brightness */
 }
 
