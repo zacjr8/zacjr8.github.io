@@ -1302,7 +1302,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .article-title::after {
-    width: 40px;
+    width: 150px;
     height: 5px;
   }
 
