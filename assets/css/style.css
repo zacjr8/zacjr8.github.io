@@ -544,10 +544,6 @@ main {
 
 .service-icon-box img { margin: auto; }
 
-img.music-icon {
-  filter: brightness(0.7); /* Adjust the value to reduce brightness */
-}
-
 .service-content-box { text-align: center; }
 
 .service-item-title { margin-bottom: 7px; }
