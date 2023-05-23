@@ -544,6 +544,11 @@ main {
 
 .service-icon-box img { margin: auto; }
 
+.service-icon-box-musik img {
+	margin: auto;
+	filter: brightness(0.7);
+}
+
 .service-content-box { text-align: center; }
 
 .service-item-title { margin-bottom: 7px; }
