@@ -131,8 +131,6 @@ li { list-style: none; }
 
 img, ion-icon, a, button, time, span { display: block; }
 
-p { text-align: justify; }
-
 button {
   font: inherit;
   background: none;
@@ -506,7 +504,7 @@ main {
   line-height: 1.6;
 }
 
-.about-text p { margin-bottom: 15px; }
+.about-text p { margin-bottom: 15px; text-align: justify; }
 
 
 
